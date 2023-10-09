@@ -25,8 +25,7 @@ Demo: [Link]([https://aplusstudio.netlify.app/])
 
 ### Project Screenshots
 
-
-https://github.com/Prem3997/Aplus-Studio/assets/37274588/27bf731c-16c8-4a2c-9374-350e9aec584b
+https://github.com/Prem3997/Aplus-Studio/assets/37274588/b7a25476-9b55-4f00-a7a0-b2a1e32d0776
 
 ---
 
