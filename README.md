@@ -21,12 +21,12 @@
 
 ### Live Site Demo
 
-Demo: [Link]([https://whatduck-784ed.web.app/](https://aplusstudio.netlify.app/))
+Demo: [Link]([https://aplusstudio.netlify.app/])
 
 ### Project Screenshots
 
-https://github.com/Prem3997/Aplus-Studio/assets/37274588/d12024be-e620-49e8-ad54-d94740269eb7
 
+https://github.com/Prem3997/Aplus-Studio/assets/37274588/27bf731c-16c8-4a2c-9374-350e9aec584b
 
 ---
 
