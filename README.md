@@ -21,7 +21,7 @@
 
 ### Live Site Demo
 
-Demo: [Link]([https://aplusstudio.netlify.app/])
+Demo: [Link](https://aplusstudio.netlify.app/)
 
 ### Project Screenshots
 
